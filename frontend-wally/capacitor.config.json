@@ -1,0 +1,10 @@
+{
+  "appId": "com.wally.taller",
+  "appName": "El taller de wally",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}

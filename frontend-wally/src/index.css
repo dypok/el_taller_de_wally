@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  /* Azul profundo corporativo */
+  --color-wally-blue: #0F172A;
+  /* Azul secundario para tarjetas */
+  --color-wally-blue-light: #1E293B;
+  /* Amarillo vibrante para botones y alertas */
+  --color-wally-yellow: #EAB308;
+  --color-wally-yellow-hover: #CA8A04;
+  /* Fondo general */
+  --color-wally-light: #F8FAFC;
+}
+
+body {
+  background-color: var(--color-wally-light);
+  color: #333333;
+}
