@@ -1,4 +1,4 @@
-# El Taller de Wally - Workshop Management System 🛠️
+# El Taller de Wally - Workshop Management System
 
 A comprehensive, cross-platform management application designed specifically for mechanical and repair workshops. Built to streamline daily operations, manage service orders, track finances, and maintain customer relationships efficiently.
 
